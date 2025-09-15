@@ -1,4 +1,6 @@
-MoviePlex
+ 
+<h1> <img width="512" height="512" alt="watching-a-movie" src="https://github.com/user-attachments/assets/c0becb58-e2b0-4931-a156-b8ad362ed898" />
+ MoviesPlex </h1> 
 A simple Movies App that allows users to view a list of movies, search, filter by categories, and sort by title or release year. The app uses HTML, CSS, JavaScript, and JSON data for movie information, and it is built to be fully responsive using Bootstrap.
 
  <a href="https://moviesplex2.netlify.app/" target="_blank"><strong>🚀 Try the Live Demo →</strong></a>
